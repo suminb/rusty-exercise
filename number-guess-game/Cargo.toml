@@ -1,0 +1,7 @@
+[package]
+name = "playrust"
+version = "0.1.0"
+authors = ["Sumin Byeon <suminb@gmail.com>"]
+
+[dependencies]
+rand = "0.3.0"
